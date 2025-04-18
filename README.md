@@ -1,2 +1,2 @@
 # JAVA101
-Patika Dev ödev deposu
+Patika Dev ders anlatımı ve ödev deposu
